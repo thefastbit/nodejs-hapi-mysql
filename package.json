@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-ws-api",
+  "version": "1.0.0",
+  "description": "simple nodejs api - ws using hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thefastbit",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^10.4.1",
+    "mysql": "^2.13.0"
+  }
+}
